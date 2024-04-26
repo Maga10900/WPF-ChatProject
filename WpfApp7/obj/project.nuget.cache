@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8joBteWCmhnk1Eca1/kD0HRc7zTwRGo49HAXUp/uubOEnJSa1LQGlsIRNaGO8rjNpPfCjelKS4S61PQIsbbcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
